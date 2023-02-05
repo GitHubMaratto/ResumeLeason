@@ -17,3 +17,4 @@
 
 
 ![Image text](C:\Users\Marat\Documents\GitHub\Курсовая работа по системе GIT\Resume\img\Фото с надписью ремонт компьютеров и ноутбуков +7 (917) 930-95-20.png) # ResumeLeason
+![Photo](img/C:\Users\Marat\Documents\GitHub\Курсовая работа по системе GIT\Resume\img\Фото с надписью ремонт компьютеров и ноутбуков +7 (917) 930-95-20.png)
